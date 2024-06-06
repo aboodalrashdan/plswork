@@ -1,1 +1,11 @@
 ignor me.txt
+repo1proj/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate.js
+repo1proj/bin/repo1proj.dll.config
+repo1proj/bin/Newtonsoft.Json.xml
+repo1proj/bin/
+repo1proj/packages/
+repo1proj/Views/
+repo1proj/Scripts/
+repo1proj/Content/
+repo1proj/repo1proj.csproj
+repo1proj/
